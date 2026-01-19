@@ -1,4 +1,4 @@
-### <div id="user-content-header" align="center">*Be a voice, not an echo...*</div>
+### <div align="center">*Be a voice, not an echo...*</div>
 
 <!--
 ## Hi there 👋
