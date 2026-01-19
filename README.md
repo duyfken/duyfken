@@ -1,6 +1,8 @@
-## Hi there 👋
+<i><center>Be a voice, not an echo...</center></i>
 
 <!--
+## Hi there 👋
+
 **duyfken/duyfken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
